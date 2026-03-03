@@ -19,7 +19,7 @@ export default function StepsSection() {
             margin: "16px auto 0",
           }}
         >
-          A simple 4-step process to start earning with your Google Play Console
+          A simple 3-step process to start earning with your Google Play Console
           account.
         </p>
       </div>

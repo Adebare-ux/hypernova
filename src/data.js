@@ -68,26 +68,30 @@ export const COMPENSATION = [
   { tier: "Pro", accounts: "20+ apps", monthly: "$600+", upfront: "$1,000+", color: "#96CEB4" },
 ];
 
-export const TESTIMONIALS = [
+ export const TESTIMONIALS = [
   {
-    name: "Alex M.",
-    location: "Germany",
+    name: " Isaac Mendoza",
+    location: "Vietnam",
     rating: 5,
-    text: "Great to work with you! We quickly connected and got things done. Updates take no more than 30 minutes a month, so it's a pleasure to work with you!",
+    image: "/review1.jpeg",
+    text: "Professonal and trustworthy,it's been more than a year working together without any issues.Paymemt come in promptly and communication is fast and straightforward.A dependable partner indeed.",
   },
   {
-    name: "Sarah K.",
-    location: "United States",
-    rating: 5,
-    text: "Reliable Partners! We have been partners for 6 months now and everything has been smooth. Payments are always on time and communication is excellent.",
-  },
-  {
-    name: "Raj P.",
+    name: " Zanakllah Sukala",
     location: "India",
     rating: 5,
-    text: "I was skeptical at first, but Wonder Apps proved to be completely transparent. The onboarding process was easy and I started earning within the first week.",
+    image: "/review2.jpeg", 
+    text: "Highly recommended partner! Our partnership has been smooth from day one. Very reliable with payments and always responsive whenever we need to communicate,Lookinng forward to continuing the collaboration with you.",
+  },
+   {
+    name: "Kumar Sudeep",
+    location: "India",
+    rating: 5,
+    image: "/review3.jpeg", 
+    text: "Great experience so far! We've been working for over 6 months and it has been a seamless experience. Payments are consistently on time and communication is always clear and professional.",
   },
 ];
+
 
 export const FAQS = [
   {
