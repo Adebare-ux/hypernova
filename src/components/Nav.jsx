@@ -37,12 +37,6 @@ export default function Nav() {
               {link}
             </span>
           ))}
-          <button
-            className="glow-btn nav-cta"
-            onClick={() => handleNavClick("Contact")}
-          >
-            Get Started
-          </button>
         </div>
 
         {/* Hamburger */}
@@ -74,12 +68,6 @@ export default function Nav() {
               {link}
             </span>
           ))}
-          <button
-            className="glow-btn"
-            onClick={() => handleNavClick("Contact")}
-          >
-            Get Started
-          </button>
         </div>
       )}
     </>
