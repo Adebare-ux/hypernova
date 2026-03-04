@@ -4,7 +4,6 @@ export const NAV_LINKS = [
   "Compensation",
   "Testimonials",
   "FAQ",
-  "Contact",
 ];
 
 export const STEPS = [
@@ -74,7 +73,7 @@ export const COMPENSATION = [
     location: "Vietnam",
     rating: 5,
     image: "/review1.jpeg",
-    text: "Professonal and trustworthy,it's been more than a year working together without any issues.Paymemt come in promptly and communication is fast and straightforward.A dependable partner indeed.",
+    text: "Professonal and trustworthy,it's been more than a year working together without any issues. Payment come in promptly and communication is fast and straightforward.A dependable partner indeed.",
   },
   {
     name: " Zanakllah Sukala",
@@ -114,4 +113,10 @@ export const FAQS = [
     q: "Can I invite a friend?",
     a: "Yes. We have a referral program, You can earn money for each friend you refer .",
   },
+];
+
+export const TEAM = [
+  { name: "FRANC", role: "Team Manager 1" },
+  { name: "DEREK",    role: "Team Manager 2" },
+
 ];

@@ -7,8 +7,8 @@ import Compensation from "./components/Compensation";
 import Testimonials from "./components/Testimonials";
 import FAQ from "./components/FAQ";
 import Footer from "./components/Footer";
-
 import "./global.css";
+import Team from "./components/Team";
 
 export default function WonderApps() {
   return (
@@ -28,6 +28,7 @@ export default function WonderApps() {
       <Compensation />
       <Testimonials />
       <FAQ />
+      <Team />
       <Footer />
     </div>
   );
